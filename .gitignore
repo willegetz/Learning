@@ -5,3 +5,4 @@ Python/Exercises/.idea/modules.xml
 Python/Exercises/.idea/vcs.xml
 Python/Exercises/.idea/workspace.xml
 Python/Exercises/Tests/ExerciseTests.pyc
+*.pyc
